@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @diakudza
-- 🌱 I’m currently learning in GeekBrains
 
 <!---
 diakudza/diakudza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
